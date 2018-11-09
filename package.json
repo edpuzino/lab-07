@@ -9,8 +9,8 @@
     "test-watch": "jest --watchAll --verbose --coverage"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ed Puzino",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.6.1",
     "eslint": "^5.7.0",
@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/edpuzino/lab-07/issues"
   },
-  "homepage": "https://github.com/edpuzino/lab-07#readme"
+  "homepage": "https://github.com/edpuzino/lab-07#readme",
+  "devDependencies": {}
 }
